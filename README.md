@@ -21,6 +21,7 @@
 - [OpenClaw 国内 API 替换配置指南](./OPENCLAW-CN-API-GUIDE.md)
 - [OpenClaw 局域网访问配置指南](./OPENCLAW-LAN-ACCESS-GUIDE.md)
 - [OpenClaw 基础使用测试指南](./OPENCLAW-BASIC-USAGE-TEST-GUIDE.md)
+- [OpenClaw + llama.cpp 本地配置教程](./openclaw_llamacpp_setup_guide.md)
 
 ## 文档内容
 
@@ -45,6 +46,13 @@
 - Gateway 与模型列表验证
 - 基础对话测试
 - 常见问题解答
+
+### OpenClaw + llama.cpp 本地配置教程
+- llama.cpp 启动命令与参数说明
+- 验证 llama.cpp 服务是否正常
+- 全局配置与 main agent 私有配置
+- 常见报错与解决方案
+- 推荐的最终实践
 
 ## 系统要求
 
